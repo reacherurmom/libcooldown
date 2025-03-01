@@ -1,0 +1,6 @@
+name: libcooldown
+description: A simple cooldown library.
+authors:
+  - ReacherUrMom
+version: 0.0.1
+antigen: libcooldown
