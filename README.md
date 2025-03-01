@@ -13,6 +13,7 @@ $cooldown->create(
 );
 
 // check a cooldown
+/** @var float $remainingCooldown */
 $remainingCooldown = $cooldown->get(
     id: 'test'
 );
